@@ -11,11 +11,6 @@ I'm an undergraduate student pursuing a **BScEng (Hons) in Electrical & Electron
 - 💻 **Programming** (Python, C, C++)
 - ⚡ **Electronics & Circuit Design**
 
-## 📌 Projects
-- **🌦️ Weather Station with ESP32 & Machine Learning** *(Ongoing)*
-- **🤖 Line-Following Robot** *(Completed)*
-- **📡 ESP32-based IoT Sensor System**
-
 ## 📫 Connect with Me
 - **GitHub:** [DamithaFdo](https://github.com/DamithaFdo)
 
